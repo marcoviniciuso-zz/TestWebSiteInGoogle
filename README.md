@@ -1,3 +1,9 @@
+Before you run:
+```
+pip install selenium
+pip install schedule
+```
+
 For single execution:
 ```
 python script.py
